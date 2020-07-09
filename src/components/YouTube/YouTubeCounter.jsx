@@ -30,7 +30,7 @@ const YouTubeCounter = () => {
       });
   });
   return (
-    <div>De nieuwste video van AlexAgnewOfficial heeft {videoViews} views</div>
+    <div>De laatste WTTAA heeft {videoViews} views</div>
   );
 };
 
